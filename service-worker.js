@@ -1,10 +1,8 @@
 // General service worker properties
 const CACHE_NAME = 'karaoke-cache-v1';
 var urlsToCache = [
-  '/',
+  '/index.html',
   '/songlist.json',
-  'https://localhost:4173/videos/Sister%20Sledge%20-%20We%20are%20family.mp4',
-  'https://localhost:4173/videos/2-unlimited-nono.mp4'
   // Add other assets you want to cache here
 ];
 
