@@ -16,7 +16,7 @@ GPIO.setup(inputB_pin, GPIO.IN, pull_up_down=GPIO.PUD_DOWN)
 
 async def button_server(websocket, path):
     while True:
-        await asyncio.sleep(1)
+        await asyncio.sleep(0.2)
         
         # In your actual code, replace this with your button press logic
         button_pressed = 0

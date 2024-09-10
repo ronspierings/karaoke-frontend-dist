@@ -8,12 +8,21 @@ def inventariseer_liedjes(directory, output_json):
     # Doorloop alle bestanden in de opgegeven directory
     for filename in os.listdir(directory):
         # Controleer of het een .mp3-bestand is
-        if filename.endswith(".mp3"):
+        if filename.endswith(".mp4"):
+            # Verwijder de .mp3 extensie
+            naam_zonder_extensie = filename[:-4]
+
+            # Splits de bestandsnaam op " - " om artiest en titel te scheiden
+            if " - " in naam_zonder_extensie:
+                artist, title = naam_zonder_extensie.split(" - ", 1)  # Splits op de eerste " - "
+            else:
+                artist, title = "", naam_zonder_extensie  # Als er geen " - " is, zet artiest leeg
+
             # Maak een object met de gevraagde structuur
             lied = {
                 "songFilename": filename,
-                "songTitle": "",
-                "songArtist": ""
+                "songTitle": title,
+                "songArtist": artist
             }
             # Voeg het object toe aan de lijst
             liedjes.append(lied)
