@@ -1,13 +1,18 @@
 [
     {
-        "songFilename": "2 Unlimited - Jump For Joy.mp4",
-        "songTitle": "Jump For Joy",
-        "songArtist": "2 Unlimited"
+        "songFilename": "2 Brothers On the 4th Floor - Dreams (Will Come Alive).mp4",
+        "songTitle": "Dreams (Will Come Alive)",
+        "songArtist": "2 Brothers On the 4th Floor"
     },
     {
-        "songFilename": "2 Unlimited - No Limit.mp4",
-        "songTitle": "No Limit",
-        "songArtist": "2 Unlimited"
+        "songFilename": "2 UNLIMITED - No limit.mp4",
+        "songTitle": "No limit",
+        "songArtist": "2 UNLIMITED"
+    },
+    {
+        "songFilename": "2UNLIMITED - JUMP FOR JOY.mp4",
+        "songTitle": "JUMP FOR JOY",
+        "songArtist": "2UNLIMITED"
     },
     {
         "songFilename": "Abba - Dancing Queen.mp4",
@@ -25,8 +30,8 @@
         "songArtist": "ABBA"
     },
     {
-        "songFilename": "ABBA - S.O.S.mp4",
-        "songTitle": "S.O.S",
+        "songFilename": "ABBA - SOS.mp4",
+        "songTitle": "SOS",
         "songArtist": "ABBA"
     },
     {
@@ -45,24 +50,14 @@
         "songArtist": "Ace of Base"
     },
     {
-        "songFilename": "Andre Hazes - Zij Gelooft In Mij.mp4",
-        "songTitle": "Zij Gelooft In Mij",
+        "songFilename": "Andre Hazes - Kleine Jongen.mp4",
+        "songTitle": "Kleine Jongen",
         "songArtist": "Andre Hazes"
     },
     {
-        "songFilename": "Andre Hazes - De Vlieger.mp4",
-        "songTitle": "De Vlieger",
-        "songArtist": "André Hazes"
-    },
-    {
-        "songFilename": "Andre Hazes - Een Beetje Verliefd.mp4",
-        "songTitle": "Een Beetje Verliefd",
-        "songArtist": "André Hazes"
-    },
-    {
-        "songFilename": "Andre Hazes - Kleine Jongen.mp4",
-        "songTitle": "Kleine Jongen",
-        "songArtist": "André Hazes"
+        "songFilename": "Andre Hazes - Zij Gelooft In Mij.mp4",
+        "songTitle": "Zij Gelooft In Mij",
+        "songArtist": "Andre Hazes"
     },
     {
         "songFilename": "Anita Meyer - Why Tell Me Why.mp4",
@@ -105,23 +100,13 @@
         "songArtist": "Bangles"
     },
     {
-        "songFilename": "Bee Gees - How Deep Is Your Love.mp4",
-        "songTitle": "How Deep Is Your Love",
-        "songArtist": "Bee Gees"
-    },
-    {
         "songFilename": "Bee Gees - Night Fever.mp4",
         "songTitle": "Night Fever",
         "songArtist": "Bee Gees"
     },
     {
-        "songFilename": "Bee Gees - Stayin Alive.mp4",
-        "songTitle": "Stayin' Alive",
-        "songArtist": "Bee Gees"
-    },
-    {
-        "songFilename": "Beegees - How Deep Is Your Love.mp4",
-        "songTitle": "How Deep Is Your Love",
+        "songFilename": "Beegees - Stayin Alive.mp4",
+        "songTitle": "Stayin Alive",
         "songArtist": "Beegees"
     },
     {
@@ -130,13 +115,8 @@
         "songArtist": "Bloem"
     },
     {
-        "songFilename": "Blondie - Heart of glass.mp4",
-        "songTitle": "Heart of glass",
-        "songArtist": "Blondie"
-    },
-    {
         "songFilename": "Bon Jovi - Livin On A Prayer.mp4",
-        "songTitle": "Livin' On A Prayer",
+        "songTitle": "Livin On A Prayer",
         "songArtist": "Bon Jovi"
     },
     {
@@ -155,19 +135,9 @@
         "songArtist": "Boney M"
     },
     {
-        "songFilename": "Britney Spears - Baby, One More Time.mp4",
-        "songTitle": "Baby, One More Time",
+        "songFilename": "Britney Spears - Oops I Did It Again.mp4",
+        "songTitle": "Oops I Did It Again",
         "songArtist": "Britney Spears"
-    },
-    {
-        "songFilename": "Britney Spears - Oops! I Did It Again.mp4",
-        "songTitle": "Oops! I Did It Again",
-        "songArtist": "Britney Spears"
-    },
-    {
-        "songFilename": "Carly Rae Jepsen - Call  Me Maybe.mp4",
-        "songTitle": "Call  Me Maybe",
-        "songArtist": "Carly Rae Jepsen"
     },
     {
         "songFilename": "Cindy Lauper - Girls Just Wanna Have Fun.mp4",
@@ -190,19 +160,14 @@
         "songArtist": "De jeugd van tegenwoordig"
     },
     {
-        "songFilename": "Deee Lite - Groove Is In The Heart.mp4",
-        "songTitle": "Groove Is In The Heart",
-        "songArtist": "Deee Lite"
-    },
-    {
         "songFilename": "Destinys Child - Say My Name.mp4",
         "songTitle": "Say My Name",
-        "songArtist": "Destiny's Child"
+        "songArtist": "Destinys Child"
     },
     {
-        "songFilename": "Diana Ross - Im Coming Out.mp4",
-        "songTitle": "I'm Coming Out",
-        "songArtist": "Diana Ross"
+        "songFilename": "DJ Paul Elstak - Rainbow in the Sky.mp4",
+        "songTitle": "Rainbow in the Sky",
+        "songArtist": "DJ Paul Elstak"
     },
     {
         "songFilename": "Doe Maar - De Bom.mp4",
@@ -241,13 +206,8 @@
     },
     {
         "songFilename": "Elton John - Dont go breaking my heart.mp4",
-        "songTitle": "Don't go breaking my heart",
+        "songTitle": "Dont go breaking my heart",
         "songArtist": "Elton John"
-    },
-    {
-        "songFilename": "French Affair - My heart goes boom.mp4",
-        "songTitle": "My heart goes boom",
-        "songArtist": "French Affair"
     },
     {
         "songFilename": "FROZEN - Let It Go.mp4",
@@ -265,34 +225,9 @@
         "songArtist": "George Baker"
     },
     {
-        "songFilename": "George Baker Selection - Una Paloma Blanca.mp4",
-        "songTitle": "Una Paloma Blanca",
-        "songArtist": "George Baker Selection"
-    },
-    {
-        "songFilename": "Gert en Hermien - Alle Duiven Op De Dam.mp4",
-        "songTitle": "Alle Duiven Op De Dam",
-        "songArtist": "Gert en Hermien"
-    },
-    {
-        "songFilename": "Gigi DAgostino - Lamour Toujours.mp4",
-        "songTitle": "L'amour Toujours",
-        "songArtist": "Gigi D'Agostino"
-    },
-    {
         "songFilename": "Goldband - Noodgeval.mp4",
         "songTitle": "Noodgeval",
         "songArtist": "Goldband"
-    },
-    {
-        "songFilename": "Guillermo & Tropical Danny - Toppertje.mp4",
-        "songTitle": "Toppertje",
-        "songArtist": "Guillermo & Tropical Danny"
-    },
-    {
-        "songFilename": "Henk Wijngaard - Met de vlam in de pijp.mp4",
-        "songTitle": "Met de vlam in de pijp",
-        "songArtist": "Henk Wijngaard"
     },
     {
         "songFilename": "Incognito feat. Jocelyn Brown - Always There.mp4",
@@ -305,28 +240,18 @@
         "songArtist": "James Brown"
     },
     {
-        "songFilename": "Jan Smit - Als de nacht verdwijnt.mp4",
-        "songTitle": "Als de nacht verdwijnt",
-        "songArtist": "Jan Smit"
-    },
-    {
-        "songFilename": "Jan Smit - Als de nacht verdwijnt2.mp4",
-        "songTitle": "Als de nacht verdwijnt2",
-        "songArtist": "Jan Smit"
-    },
-    {
         "songFilename": "Jantje Smit - Ik zing dit lied voor jou alleen.mp4",
         "songTitle": "Ik zing dit lied voor jou alleen",
         "songArtist": "Jantje Smit"
     },
     {
         "songFilename": "Jody Bernal - Que si que no.mp4",
-        "songTitle": "Que sí que no",
+        "songTitle": "Que si que no",
         "songArtist": "Jody Bernal"
     },
     {
         "songFilename": "Journey - Dont Stop Believing.mp4",
-        "songTitle": "Don't Stop Believing",
+        "songTitle": "Dont Stop Believing",
         "songArtist": "Journey"
     },
     {
@@ -345,8 +270,8 @@
         "songArtist": "Lasgo"
     },
     {
-        "songFilename": "Lee Towers - Youll Never Walk Alone.mp4",
-        "songTitle": "You'll Never Walk Alone",
+        "songFilename": "Lee Towers - You Will Never Walk Alone.mp4",
+        "songTitle": "You Will Never Walk Alone",
         "songArtist": "Lee Towers"
     },
     {
@@ -360,18 +285,8 @@
         "songArtist": "Lipps Inc"
     },
     {
-        "songFilename": "Los Del Rio - Macarena.mp4",
-        "songTitle": "Macarena",
-        "songArtist": "Los Del Rio"
-    },
-    {
-        "songFilename": "Maan ft. Goldband - Stiekem.mp4",
-        "songTitle": "Stiekem",
-        "songArtist": "Maan ft. Goldband"
-    },
-    {
         "songFilename": "Madison Avenue - Dont Call Me Baby.mp4",
-        "songTitle": "Don't Call Me Baby",
+        "songTitle": "Dont Call Me Baby",
         "songArtist": "Madison Avenue"
     },
     {
@@ -396,12 +311,7 @@
     },
     {
         "songFilename": "Madonna - Papa Dont Preach.mp4",
-        "songTitle": "Papa Don't Preach",
-        "songArtist": "Madonna"
-    },
-    {
-        "songFilename": "Madonna - Vogue.mp4",
-        "songTitle": "Vogue",
+        "songTitle": "Papa Dont Preach",
         "songArtist": "Madonna"
     },
     {
@@ -420,16 +330,6 @@
         "songArtist": "Marianne Rosenberg"
     },
     {
-        "songFilename": "Mart Hoogkamer - In Spanje.mp4",
-        "songTitle": "In Spanje",
-        "songArtist": "Mart Hoogkamer"
-    },
-    {
-        "songFilename": "Marvin Gaye & Tammi Terrell - Aint No Mountain High Enough.mp4",
-        "songTitle": "Ain't No Mountain High Enough",
-        "songArtist": "Marvin Gaye & Tammi Terrell"
-    },
-    {
         "songFilename": "Miami Sound Machine - Dr Beat.mp4",
         "songTitle": "Dr Beat",
         "songArtist": "Miami Sound Machine"
@@ -438,6 +338,11 @@
         "songFilename": "Miranda - Vamos A La Playa.mp4",
         "songTitle": "Vamos A La Playa",
         "songArtist": "Miranda"
+    },
+    {
+        "songFilename": "MO-DO - Eins, Zwei, Polizei.mp4",
+        "songTitle": "Eins, Zwei, Polizei",
+        "songArtist": "MO-DO"
     },
     {
         "songFilename": "Modjo - Lady.mp4",
@@ -450,9 +355,9 @@
         "songArtist": "Moloko"
     },
     {
-        "songFilename": "NSync - Bye Bye Bye.mp4",
-        "songTitle": "Bye Bye Bye",
-        "songArtist": "N'Sync"
+        "songFilename": "Natasha Bedingfield - Unwritten.mp4",
+        "songTitle": "Unwritten",
+        "songArtist": "Natasha Bedingfield"
     },
     {
         "songFilename": "Nelly ft Kelly Rowland - Dilemma.mp4",
@@ -460,9 +365,14 @@
         "songArtist": "Nelly ft Kelly Rowland"
     },
     {
-        "songFilename": "No doubt - Dont Speak.mp4",
+        "songFilename": "No doubt - Don't Speak.mp4",
         "songTitle": "Don't Speak",
         "songArtist": "No doubt"
+    },
+    {
+        "songFilename": "NSync - Bye Bye Bye.mp4",
+        "songTitle": "Bye Bye Bye",
+        "songArtist": "NSync"
     },
     {
         "songFilename": "PANDORA - Trust Me.mp4",
@@ -470,8 +380,8 @@
         "songArtist": "PANDORA"
     },
     {
-        "songFilename": "Party Animals - Have You Ever Been Mellow Lyrics.mp4",
-        "songTitle": "Have You Ever Been Mellow Lyrics",
+        "songFilename": "Party Animals - Have You Ever Been Mellow.mp4",
+        "songTitle": "Have You Ever Been Mellow",
         "songArtist": "Party Animals"
     },
     {
@@ -490,16 +400,6 @@
         "songArtist": "Peter Andre"
     },
     {
-        "songFilename": "Queen - Dont Stop Me Now.mp4",
-        "songTitle": "Don't Stop Me Now",
-        "songArtist": "Queen"
-    },
-    {
-        "songFilename": "Queen - We will rock you.mp4",
-        "songTitle": "We will rock you",
-        "songArtist": "Queen"
-    },
-    {
         "songFilename": "Real McCoy - Another Night.mp4",
         "songTitle": "Another Night",
         "songArtist": "Real McCoy"
@@ -510,24 +410,19 @@
         "songArtist": "Reel 2 Real"
     },
     {
-        "songFilename": "Rene Froger - Een eigen huis.mp4",
-        "songTitle": "Een eigen huis",
-        "songArtist": "Rene Froger"
-    },
-    {
         "songFilename": "RICK ASTLEY - NEVER GONNA GIVE YOU UP.mp4",
         "songTitle": "NEVER GONNA GIVE YOU UP",
         "songArtist": "RICK ASTLEY"
     },
     {
         "songFilename": "Right Said Fred - Im Too Sexy.mp4",
-        "songTitle": "I'm Too Sexy",
+        "songTitle": "Im Too Sexy",
         "songArtist": "Right Said Fred"
     },
     {
-        "songFilename": "Ritchie Valens - La Bamba.mp4",
-        "songTitle": "La Bamba",
-        "songArtist": "Ritchie Valens"
+        "songFilename": "Roxy Dekker - Satisfyer.mp4",
+        "songTitle": "Satisfyer",
+        "songArtist": "Roxy Dekker"
     },
     {
         "songFilename": "Sabrina - Boys, Boys, Boys.mp4",
@@ -550,11 +445,6 @@
         "songArtist": "SNAP"
     },
     {
-        "songFilename": "Soft Cell - Tainted Love.mp4",
-        "songTitle": "Tainted Love",
-        "songArtist": "Soft Cell"
-    },
-    {
         "songFilename": "Spice Girls - Spice Up Your Life.mp4",
         "songTitle": "Spice Up Your Life",
         "songArtist": "Spice Girls"
@@ -575,29 +465,19 @@
         "songArtist": "T Spoon"
     },
     {
-        "songFilename": "Technotronic - Pump Up the Jam.mp4",
-        "songTitle": "Pump Up the Jam",
-        "songArtist": "Technotronic"
-    },
-    {
         "songFilename": "The Human League - Dont You Want Me.mp4",
-        "songTitle": "Don't You Want Me",
+        "songTitle": "Dont You Want Me",
         "songArtist": "The Human League"
     },
     {
         "songFilename": "The Michael Zager Band - Lets all chant.mp4",
-        "songTitle": "Let's all chant",
+        "songTitle": "Lets all chant",
         "songArtist": "The Michael Zager Band"
     },
     {
-        "songFilename": "The Opposites - Licht Uit.mp4",
-        "songTitle": "Licht Uit",
-        "songArtist": "The Opposites"
-    },
-    {
-        "songFilename": "The Tamperer ft. Maya - Feel it.mp4",
+        "songFilename": "The Tamperer ft Maya - Feel it.mp4",
         "songTitle": "Feel it",
-        "songArtist": "The Tamperer ft. Maya"
+        "songArtist": "The Tamperer ft Maya"
     },
     {
         "songFilename": "TLC - No Scrubs.mp4",
@@ -615,9 +495,9 @@
         "songArtist": "Toybox"
     },
     {
-        "songFilename": "Ultimate Kaos - Casanova.mp4",
-        "songTitle": "Casanova",
-        "songArtist": "Ultimate Kaos"
+        "songFilename": "Vanessa Carlton - A Thousand Miles.mp4",
+        "songTitle": "A Thousand Miles",
+        "songArtist": "Vanessa Carlton"
     },
     {
         "songFilename": "Venga Boys - Boom boom boom.mp4",
@@ -630,11 +510,6 @@
         "songArtist": "Vengaboys"
     },
     {
-        "songFilename": "Village People - YCMA.mp4",
-        "songTitle": "YCMA",
-        "songArtist": "Village People"
-    },
-    {
         "songFilename": "Volumia - hou me vast.mp4",
         "songTitle": "hou me vast",
         "songArtist": "Volumia"
@@ -645,14 +520,14 @@
         "songArtist": "Wamdue Project"
     },
     {
-        "songFilename": "Wham - Wake me up before you go go.mp4",
-        "songTitle": "Wake me up before you go go",
+        "songFilename": "Wham - Club Tropicana.mp4",
+        "songTitle": "Club Tropicana",
         "songArtist": "Wham"
     },
     {
-        "songFilename": "Wham! - Club Tropicana.mp4",
-        "songTitle": "Club Tropicana",
-        "songArtist": "Wham!"
+        "songFilename": "Wham - Wake me up before you go go.mp4",
+        "songTitle": "Wake me up before you go go",
+        "songArtist": "Wham"
     },
     {
         "songFilename": "Whigfield  - Think of You.mp4",
@@ -662,16 +537,6 @@
     {
         "songFilename": "Whitney Houston - How Will I Know.mp4",
         "songTitle": "How Will I Know",
-        "songArtist": "Whitney Houston"
-    },
-    {
-        "songFilename": "Whitney Houston - I Wanna Dance With Somebody.mp4",
-        "songTitle": "I Wanna Dance With Somebody",
-        "songArtist": "Whitney Houston"
-    },
-    {
-        "songFilename": "Whitney Houston - I Will Always Love You.mp4",
-        "songTitle": "I Will Always Love You",
         "songArtist": "Whitney Houston"
     }
 ]
